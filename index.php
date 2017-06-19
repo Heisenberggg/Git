@@ -20,6 +20,10 @@ define('APP_DEBUG',True);
 // 定义应用目录
 define('APP_PATH','./App/');
 define('APP_PATH','./App/cc');
+define('APP_PATH','./App/ccd');
+fdsdff
+
+sdfsdfsfsfsdf
 
 define('WEB_URL','http://www.datax.com');
 
